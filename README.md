@@ -34,8 +34,8 @@ to notate the final HTML output.
 
 ## Acknowledgements
 
-http://android.riteshsahu.com/apps/sms-backup-restore - For exporting SMS/MMS to XML
-https://github.com/github/gemoji/ - For emoji images
-http://php.net/manual/en/function.mb-split.php#80046 - For splitting mb strings into char arrays
-http://www.endmemo.com/unicode/unicodeconverter.php - For web based conversion of multibyte characters
-http://www.endmemo.com/unicode/script/convertuni.js - For code based conversion of multibyte characters
+http://android.riteshsahu.com/apps/sms-backup-restore - For exporting SMS/MMS to XML  
+https://github.com/github/gemoji/ - For emoji images  
+http://php.net/manual/en/function.mb-split.php#80046 - For splitting mb strings into char arrays  
+http://www.endmemo.com/unicode/unicodeconverter.php - For web based conversion of multibyte characters  
+http://www.endmemo.com/unicode/script/convertuni.js - For code based conversion of multibyte characters  
