@@ -30,7 +30,7 @@ to notate the final HTML output.
 
 1) php convert.php *fileIn* *fileOut*  
 2) php render.php *fileIn* *me* *you* &gt; *htmlFile*  
-(or in browser: http://path/to/render.php?file={file}&amp;me={me}$amp;you={you})
+(or in browser: http://path/to/render.php?file={file}&amp;me={me}&amp;you={you})
 
 ## Acknowledgements
 
