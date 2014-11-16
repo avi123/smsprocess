@@ -19,8 +19,8 @@ messages into a basic html file.
 You will need an image library of emojis. This script uses the images from the gemoji project (https://github.com/github/gemoji/) 
 and assumes:
 
-1) all images reside in images/emoji/unicode
-2) all images are PNGs
+1) all images reside in images/emoji/unicode  
+2) all images are PNGs  
 3) all images are named with their unicode value, in lowercase (eg, 1f3aa.png)
 
 ## Instructions
@@ -28,8 +28,8 @@ and assumes:
 NOTE: For (2), *me* is my name and *you* is the name of the person with whom I'm communicating. These names will be used 
 to notate the final HTML output.
 
-1) php convert.php *fileIn* *fileOut*
-2) php render.php *fileIn* *me* *you* &gt; *htmlFile*
+1) php convert.php *fileIn* *fileOut*  
+2) php render.php *fileIn* *me* *you* &gt; *htmlFile*  
 (or in browser: http://path/to/render.php?file={file}&amp;me={me}$amp;you={you})
 
 ## Acknowledgements
